@@ -24,3 +24,4 @@ def remove_strawberry(contacts)
   # if item == :favorite_ice_cream_flavors
   #   value.each do |flavor|
   #   elseif
+end
